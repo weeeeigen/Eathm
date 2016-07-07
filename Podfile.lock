@@ -1,0 +1,33 @@
+PODS:
+  - Crashlytics (3.7.1):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - LTMorphingLabel (0.2.0)
+  - SCLAlertView (0.5.9)
+  - TwitterCore (2.2.0):
+    - Fabric
+  - TwitterKit (2.2.0):
+    - TwitterCore (= 2.2.0)
+  - ZFRippleButton (0.5.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - LTMorphingLabel
+  - SCLAlertView
+  - TwitterCore
+  - TwitterKit
+  - ZFRippleButton
+
+SPEC CHECKSUMS:
+  Crashlytics: 3cdd4c9655be68032a0cf0379e0fb5ef6af22cad
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  LTMorphingLabel: 490aa8e079f9247c7f3130f7d4b1be1d66677377
+  SCLAlertView: d7c6a48c7d340e60206d4ed0e8ebcbff3b9d2a44
+  TwitterCore: 115527630bb2986954adc928b8c895a92bcd57e5
+  TwitterKit: 2c64ec342a6261ae6bab565bad85dcbbfd3888b7
+  ZFRippleButton: 263bdf4e31dabd5826133b121d9ff908c87a6a11
+
+PODFILE CHECKSUM: d2a4c870743b34c5a30394273ac09a891c0b0892
+
+COCOAPODS: 1.0.0
